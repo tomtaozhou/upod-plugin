@@ -1,9 +1,9 @@
 # UPOD #
-**Contributors:** Tao Zhou 
-**Tags:** fediverse, activitypub
-**Stable tag:** 1.0
-**Requires PHP:** 5.6
-**License:** GPL3.0
+**Contributors:** Tao Zhou  
+**Tags:** fediverse, activitypub  
+**Stable tag:** 1.0  
+**Requires PHP:** 5.6  
+**License:** GPL3.0  
 **License URI:** [licenses/gpl-3.0.html)](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ## Description ##
