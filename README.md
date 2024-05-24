@@ -1,5 +1,5 @@
 # UPOD #
-**Contributors:** Tao Zhou  
+**Contributors:** Tao Zhou, Yunhao Ni  
 **Tags:** fediverse, activitypub  
 **Stable tag:** 1.0  
 **Requires PHP:** 5.6  
