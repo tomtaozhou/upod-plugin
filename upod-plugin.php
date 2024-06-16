@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: UPOD
- * Plugin URI: https://github.com/fedipod/upod-plugin
+ * Plugin URI: https://github.com/tomtaozhou/upod-plugin
  * Description: Supports all ActivityPub protocol requirements by copying and converting ActivityPub content to WordPress posts. It allows the creation of virtual roles to categorize post data, enabling personal data sharing with full control and management by individuals.
  * Version: 1.0
  * Author: Tao Zhou
